@@ -1,4 +1,4 @@
-name: reLCS conan+cmake
+name: reLCS conan-cmake
 on:
   pull_request:
   push:
